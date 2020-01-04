@@ -1,0 +1,26 @@
+{
+  "name": "youtube-stream",
+  "version": "1.0.0",
+  "description": "Download and convert music videos to mp3",
+  "main": "app.js",
+  "dependencies": {
+    "album-art": "^2.0.1",
+    "cli-progress": "^3.4.0",
+    "ffmetadata": "^1.6.0",
+    "ffmpeg": "^0.0.4",
+    "image-downloader": "^3.5.0",
+    "node-fzf": "^0.2.0",
+    "progress": "^2.0.3",
+    "readline": "^1.3.0",
+    "request": "^2.88.0",
+    "video-converter": "^1.0.0",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Davis",
+  "license": "MIT"
+}
